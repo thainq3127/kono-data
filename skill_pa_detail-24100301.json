@@ -1,0 +1,1 @@
+{"skill_id":"241003","id":"24100301","skill_name":"行動ごとに回復","skill_flavor_text":"行動するごとに40回復","type":"heal_rule_action_probability","value1":"100","value2":"40","value3":"0","attribute":"0"}

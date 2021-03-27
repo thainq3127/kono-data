@@ -1,0 +1,1 @@
+{"skill_id":"291031","id":"29103102","skill_name":"物理攻撃力アップ＆回復","skill_flavor_text":"物理攻撃時の攻撃力が4%アップ＆行動するごとに70回復","type":"heal_rule_action_probability","value1":"100","value2":"70","value3":"0","attribute":"0"}
